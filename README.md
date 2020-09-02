@@ -37,7 +37,11 @@ here two variables are words(letters) and rank.
 **NOTE**  Most common words and frequency can be used in Cryptanalysis.
 
 
+![](word.png)
 
+![](word vs part of speech .png)
+
+![](letter.png)
 
 
 
