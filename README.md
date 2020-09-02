@@ -27,7 +27,7 @@ here two variables are words(letters) and rank.
 ## Part C
 
 **Zipf’s law** says that: It is relationship between the frequency of a word f and rank its position in the list, known as its rank r
-
+ 
 **f ∝ 1/r**
 
 **Most common words** are mainly Artice , Verb , Preposition and Nouns
