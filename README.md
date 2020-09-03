@@ -7,11 +7,11 @@ Applying Lingusitic techniques in Mark Twain’s novel “The Adventures of Tom 
 
 ## Part A
 
-token-type ratio = 10.018034265103697
+token-type ratio = 7.7343668168010895
 
 ## Part B
 
-* 
+* ![](word_freq.png) ![](letter_freq.png)
 
 *
 
