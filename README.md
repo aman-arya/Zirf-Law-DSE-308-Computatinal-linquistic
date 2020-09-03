@@ -29,11 +29,15 @@ Applying Lingusitic techniques in Mark Twain’s novel “The Adventures of Tom 
 
 * **Plot a graph with Rank on the X-axis and Frequency on the Y-axis**
 
-![](word_graph.png) ![](letter_graph.png)
+![](word_graph.png) 
+
+![](letter_graph.png)
 
 * **Plot a graph with log10(Rank) on the X-axis and log10(Frequency) on Y-axis.**
 
-![](word_graph_log.png) ![](letter_graph_log.png)
+![](word_graph_log.png)
+
+![](letter_graph_log.png)
 
 * **What is the Pearson's coefficient of correlation between rank and frequency?**
 
