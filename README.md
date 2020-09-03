@@ -6,8 +6,10 @@ Aman Kumar 17025
 Applying Lingusitic techniques in Mark Twain’s novel “The Adventures of Tom Sawyer” from Project Gutenberg
 
 ## Part A
+**First calculate the token-type ratio of the above text**
 
-token-type ratio = 7.7343668168010895
+
+**token-type ratio** = 7.7343668168010895
 
 ## Part B
 
@@ -46,6 +48,11 @@ here two variables are words(letters) and rank.
 
 
 ## Part C
+
+**) Write a short note on Zipf's law and discuss any patterns which emerged from the above data
+by using your best judgment and going beyond the numerical results. For example, since you
+have studied both words and letters, are there any interesting similarities (or differences)
+which you observe? Comments should be along these lines.**
 
 **Zipf’s law** says that: It is relationship between the frequency of a word f and rank its position in the list, known as its rank r
  
