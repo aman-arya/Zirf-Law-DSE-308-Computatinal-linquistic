@@ -11,25 +11,31 @@ token-type ratio = 7.7343668168010895
 
 ## Part B
 
-*
+* **Calculate the frequency of occurrence of each item. Rank them in descending order of frequency**
 
 ![](word_freq.png) ![](letter_freq.png)
 
-* 
+* **Write down the five most frequent items and comment on them.**
 
 **Five frequent words** the ,and ,a ,to ,of
 
 **Five frequent words** e, t, o , a, n
 
-*
+**Most common words** are mainly Artice , Verb , Preposition and Nouns
+
+**Most common letters** are mainly vowels (a,e,i,o,u)
+
+* **Plot a graph with Rank on the X-axis and Frequency on the Y-axis**
 
 ![](word_graph.png) ![](letter_graph.png)
 
-*
+* **Plot a graph with log10(Rank) on the X-axis and log10(Frequency) on Y-axis.**
 
 ![](word_graph_log.png) ![](letter_graph_log.png)
 
-* **Pearson’s correlation coefficient** is the test statistics that measures the statistical relationship, or association, between two continuous variables.  It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.  It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship.
+* **What is the Pearson's coefficient of correlation between rank and frequency?**
+
+**Pearson’s correlation coefficient** is the test statistics that measures the statistical relationship, or association, between two continuous variables.  It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.  It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship.
 
 here two variables are words(letters) and rank.
 
