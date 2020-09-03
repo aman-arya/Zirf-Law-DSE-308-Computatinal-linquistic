@@ -39,7 +39,7 @@ here two variables are words(letters) and rank.
 
 ![](word.png)
 
-![](word vs part of speech.png)
+![](word-vs-part-of-speech.png)
 
 ![](letter.png)
 
